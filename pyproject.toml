@@ -1,24 +1,7 @@
 [project]
 name = "edabit-python-questions"
-version = "0.1.0"
+version = "2.0.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
-
-[tool.uv.workspace]
-members = [
-    "01_very_easy",
-    "01_very_easy/general",
-    "01_very_easy/classes",
-    "01_very_easy/conditions",
-    "02_easy",
-    "02_easy/general",
-    "02_easy/control_flow",
-    "03_medium",
-    "03_medium/conditions",
-    "03_medium/loops",
-    "04_hard",
-    "05_very_hard",
-    "06_expert",
-]
