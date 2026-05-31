@@ -17,8 +17,16 @@
 # def hello():
 
 
+# Solution:
+
+
+# Method 1: Function definition (def)
+
+
 def hello() -> str:
     return "hello edabit.com"
 
+
+# Method 2: Lambda expression (lamda)
 
 hello = lambda: "hello edabit.com"
